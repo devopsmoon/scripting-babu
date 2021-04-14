@@ -7,3 +7,6 @@ then
   else
     echo -e "\e[1;33mThe given file $name does not exist\e[0m"
     fi
+
+
+
