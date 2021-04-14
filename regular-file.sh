@@ -9,5 +9,5 @@ read name
   then
       echo "\e[1;31mThe given file is regular file\e[0m"
       else
-        echo "\e[1;32mThe given file doest not exist\e[0m"\
+        echo "\e[1;32mThe given file doest not exist\e[0m"
         fi
